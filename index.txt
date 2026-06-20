@@ -1,0 +1,8 @@
+Genre, Length (number of chapters or pages or words), complexity of the characters, fiction or non-fiction. 
+Assuming 60 novels done
+for each novel we will have 
+
+Genre, length, complexity, fiction/non-fiction, a moral ending or something. 
+
+
+60- -> let's say 20 are complex and long, 20 are simple and short, and 20 are mixed.
