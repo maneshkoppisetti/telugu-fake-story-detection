@@ -27,3 +27,10 @@ This Scraper is `website specific`. So, it does not work with other websites.
 
 ## Related works
 A similar work on Telugu Newspaper dataset can be found [here](https://github.com/AnushaMotamarri/Telugu-Newspaper-Article-Dataset)
+
+note: 
+the original dataset ive made concsists of approximately 400 telugu literary text files collected from publicly available telugu novels and literary sources.
+
+Due to repositsize limitations, the complete dataset is not included in this repository. A small subset of sample .utf8 files has been provided to demonsstrate the dataset structure and preprocessing workflow.
+
+the included sample files are intended for reference purposes only and donot represent the full dataset used during experimentaionand model development.
